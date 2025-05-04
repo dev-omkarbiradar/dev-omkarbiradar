@@ -21,8 +21,6 @@ I am a software developer with a keen interest in data science and web technolog
 
 ## My Skills
 
-
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
