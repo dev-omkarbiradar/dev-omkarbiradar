@@ -6,7 +6,7 @@
 
 I am a software developer with a keen interest in data science and web technologies. Currently, I have several projects that showcase my skills in various programming languages and frameworks. I'm always eager to learn and collaborate on new challenges!
 
-- 🔭 I’m currently working on [NyayVaani: Bridging Legal Information and Expertise](https://nyay-vaani.vercel.app/)
+- 🔭 I’m currently working on [Surakshit: A Community Safety Platform](https://surakshit-three.vercel.app/)
 
 - 🌱 I’m currently learning **Backend and Frontend Frameworks**
 
@@ -17,7 +17,7 @@ I am a software developer with a keen interest in data science and web technolog
 - 📫 How to reach me **amolrakh22@gmail.com**
   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-amolrakh" alt="dev-amolrakh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-amolrakh" alt="dev-omkarbiradar" /></a> </p>
 
 ## My Skills
 
