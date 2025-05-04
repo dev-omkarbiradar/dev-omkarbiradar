@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Omkar Biradar</h1>
-<h3 align="center">A passionate Full stack, AIML and DevOps developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-amolrakh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-amolrakh" /> </p>
+<h3 align="center">A passionate Full stack and DevOps developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-omkarbiradar&label=Profile%20views&color=0e75b6&style=flat" alt="dev-omkarbiradar" /> </p>
 
 ## About Me
 
-I am a software developer with a keen interest in data science and web technologies. Currently, I have several projects that showcase my skills in various programming languages and frameworks. I'm always eager to learn and collaborate on new challenges!
+I am a software developer with a keen interest in devOps and web technologies. Currently, I have several projects that showcase my skills in various programming languages and frameworks. I'm always eager to learn and collaborate on new challenges!
 
 - 🔭 I’m currently working on [Surakshit: A Community Safety Platform](https://surakshit-three.vercel.app/)
 
 - 🌱 I’m currently learning **Backend and Frontend Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://a22-amol.netlify.app/](https://a22-amol.netlify.app/)
+- 👨‍💻 All of my projects are available at:
 
 - 💬 Ask me about **react, node.js and Flask**
 
 - 📫 How to reach me **biradaromkar.4176@gmail.com**
   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-amolrakh" alt="dev-omkarbiradar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-omkarbiradar" alt="dev-omkarbiradar" /></a> </p>
 
 ## My Skills
 
@@ -51,25 +51,24 @@ I am a software developer with a keen interest in data science and web technolog
 
 ## Top Projects
 
-- Vidhur - AI-College-Enquiry-Chatbot, Get quick and latest info about the top technical institutions under DTE Rajasthan. **Stars:** 1, **Language:** JavaScript [Live Link:](https://vidhur.netlify.app/)
-- NyayVaani: Bridging Legal Information and Expertise. [Live Link: ](https://nyay-vaani.vercel.app/)
-- Samku Services a fully solutions for Your Vehicle Book Service and Buy EV Parts.
-- BHOJANAM - The sustainable breakfast cereals and beverages initiative is a groundbreaking project under the ANNAM (AI-driven sustainable food systems) platform. [Live Link: ](https://bhojanam-starhaus.netlify.app/)
+- Surakshit - A Community Safety Platform, Surakshit provides powerful tools to help communities stay safe, informed, and connected.. **Stars:** 1, **Language:** JavaScript [Live Link:](https://surakshit-three.vercel.app/)
+- Samku CMS: A Content Management System for EV Charging Stations. [Live Link: ](https://samku-cms.vercel.app)
+- Samku Services a fully solutions for Your Vehicle Book Service and Buy EV Parts. [Live Link: ](https://samkueservices.com)
 
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/amolrakha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amolrakha22" height="30" width="40" /></a>
-<a href="https://kaggle.com/amoldevidasrakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amoldevidasrakh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amolrakh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amolrakh22" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omkar-biradar-457725245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amolrakha22" height="30" width="40" /></a>
+<a href="https://kaggle.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amoldevidasrakh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Omkar_0212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Omkar_0212" height="30" width="40" /></a>
 </p>
 
 ## GitHub Stats
 
 🌟 **Public Repositories:** 6  
-👥 **Followers:** 13  
-👤 **Following:** 23  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=radical)
+👥 **Followers:** 3  
+👤 **Following:** 5  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-omkarbiradar&show_icons=true&theme=radical)
 
 ## My GitHub Achievements 🏆
 ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
