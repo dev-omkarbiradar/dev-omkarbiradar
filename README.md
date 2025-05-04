@@ -73,12 +73,3 @@ I am a software developer with a keen interest in devOps and web technologies. C
 ## My GitHub Achievements 🏆
 ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 ![Yolo](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-![Gitty](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
-
-
-
-## Recent Activity
-
-- ⭐️ Published Paper In OpenCV [link](https://journals.tultech.eu/index.php/jtse/article/view/202) 
-- ⭐️ Launched a Project Called NyayVaani [Documentation](https://drive.google.com/file/d/17U7bf3zzod9cFAY_0FN5Iz6T0ShAnKCr/view) and [Audio Podcast](https://drive.google.com/file/d/1UMqx6FpjAOxEWjwrtFyYtvIrTZSD-OF8/view) 
-- ⭐️ Leetcode
