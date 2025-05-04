@@ -14,14 +14,14 @@ I am a software developer with a keen interest in data science and web technolog
 
 - 💬 Ask me about **react, node.js and Flask**
 
-- 📫 How to reach me **amolrakh22@gmail.com**
+- 📫 How to reach me **biradaromkar.4176@gmail.com**
   
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-amolrakh" alt="dev-omkarbiradar" /></a> </p>
 
 ## My Skills
 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
