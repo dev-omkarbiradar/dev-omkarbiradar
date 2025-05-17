@@ -44,7 +44,6 @@
   <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 </div>
 
 <br>
@@ -179,13 +178,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-omkarbiradar&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/dev-omkarbiradar/dev-omkarbiradar/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 <br>
