@@ -67,7 +67,6 @@
     </tr>
   </table>
 </div>
-
 <!-- Featured Projects Section -->
 <div align="center">
   <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30" height="30" style="margin-right: 10px;">Featured Projects</h2>
