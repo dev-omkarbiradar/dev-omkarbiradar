@@ -51,7 +51,7 @@
 <br>
 
 <p align="center">
-  A passionate Full Stack and DevOps developer from India with a focus on building innovative, scalable web applications and community-oriented platforms.
+  A passionate Full Stack and DevOps developer from Pune, India with a focus on building innovative, scalable web applications and community-oriented platforms.
 </p>
 
 <div align="center">
