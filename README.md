@@ -61,7 +61,7 @@
         <ul>
           <li>🔭 Currently working on <b><a href="https://surakshit-three.vercel.app/">Surakshit: A Community Safety Platform</a></b></li>
           <li>🌱 Expanding expertise in <b>Modern Backend & Frontend Frameworks</b></li>
-          <li>💬 Ask me about <b>React, Node.js, and Flask</b></li>
+          <li>💬 Ask me about <b>React, Node.js, and FastAPI</b></li>
           <li>📫 Contact: <b>biradaromkar.4176@gmail.com</b></li>
         </ul>
       </td>
