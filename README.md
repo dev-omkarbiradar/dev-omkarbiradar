@@ -26,9 +26,6 @@
 <table align="center" border="0">
   <tr border="0">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dev-omkarbiradar&theme=react&border_radius=10&hide_border=true&show_icons=true" alt="Omkar's GitHub Stats">
-    </td>
-    <td width="50%" align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-omkarbiradar&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak">
     </td>
   </tr>
