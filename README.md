@@ -40,7 +40,7 @@
 <div align="center">
   <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=express"  alt="express logo"  />
   <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
   <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
