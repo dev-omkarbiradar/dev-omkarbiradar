@@ -1,29 +1,54 @@
-<!-- ==================== HERO BANNER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=OMKAR%20BIRADAR&fontSize=54&fontColor=00E5FF&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Craftsman&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=210&section=header&text=OMKAR%20BIRADAR&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=DevOps%20Engineer%20%2F%2F%20Linux%20%2B%20Cloud%20%2B%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Automating%20Infrastructure%2C%20One%20Pipeline%20at%20a%20Time;Docker%20%C2%B7%20Kubernetes%20%C2%B7%20CI%2FCD%20%C2%B7%20Terraform;Building%20Scalable%20%26%20Self-Healing%20Systems;From%20Commit%20to%20Production%20-%20Fully%20Automated" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=%24%20systemctl%20status%20omkar.service;%E2%97%8F%20omkar.service%20-%20loaded%20(enabled%3B%20vendor%20preset%3A%20always-on);%20%20%20Active%3A%20active%20(running)%20since%202021%3B%20%20%20Mission%3A%20automate%20everything%2C%20break%20nothing" alt="terminal typing"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/omkar-biradar-457725245"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:biradaromkar.4176@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-<a href="https://leetcode.com/u/Omkar_0212/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/dev-omkarbiradar"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omkar-biradar-457725245"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117"/></a>
+<a href="mailto:biradaromkar.4176@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117"/></a>
+<a href="https://leetcode.com/u/Omkar_0212/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0D1117"/></a>
+<a href="https://github.com/dev-omkarbiradar"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Automating_Everything-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Currently-Exploring_Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Based_in-Pune%2C_India-00E5FF?style=flat-square&logo=googlemaps&logoColor=black"/>
+<img src="https://img.shields.io/badge/OS-Arch_Linux-000000?style=flat-square&logo=archlinux&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SHELL-bash%20%2F%20zsh-000000?style=flat-square&logo=gnubash&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/EDITOR-Neovim-000000?style=flat-square&logo=neovim&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/UPTIME-3%2B_years-000000?style=flat-square&logo=linux&logoColor=39FF14&labelColor=0D1117"/>
 
 </div>
 
 <br/>
 
-<!-- ==================== ABOUT ==================== -->
-## 🧭 `whoami`
+## `$` neofetch
+
+```text
+                  -`                    omkar@devops-machine
+                 .o+`                   ---------------------
+                `ooo/                   OS: Arch Linux x86_64
+               `+oooo:                  Host: Cloud-Native Infrastructure
+              `+oooooo:                 Kernel: 6.6.0-shipfast
+              -+oooooo+:                Uptime: 3+ years, minimal downtime
+            `/:-:++oooo+:               Shell: bash 5.2 + zsh (tmux inside)
+           `/++++/+++++++:              Role: DevOps Engineer / Full-Stack Dev
+          `/++++++++++++++:             Location: Pune, India
+         `/+++ooooooooooooo/`           CPU: Problem-Solving Core (8) @ inf GHz
+        ./ooosssso++osssssso+`          Memory: 12GB Coffee / inf GB Curiosity
+       .oossssso-````/ossssss+`         Packages: docker, k8s, terraform, git
+      -osssssso.      :ssssssso.        WM: CI/CD Pipelines
+     :osssssss/        osssso+++.       Achievements: 2x Hackathon Winner
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/
+```
+
+<br/>
+
+## `$` cat about.md
 
 ```yaml
 name: Omkar Biradar
@@ -34,153 +59,153 @@ focus:
   - Designing CI/CD pipelines that ship with confidence
   - Containerizing & orchestrating cloud-native applications
   - Infrastructure as Code — repeatable, versioned, disposable
-  - Bridging "it works on my machine" and production
+  - Living inside a terminal — tmux, vim, and a lot of grep
 currently_exploring: [Kubernetes, System Design, Cloud Cost Optimization]
 achievement: 🏆 Winner — TechXcelerate Hackathon @ BITS Pilani (SaaS Category)
-fun_fact: I automate things twice, just to make sure the automation works ⚙️
+fun_fact: I automate things twice, just to make sure the automation works
 ```
 
 <br/>
 
-<!-- ==================== CI/CD PIPELINE BANNER ==================== -->
-## ⚙️ CI/CD Pipeline — How I Ship Code
+## `$` systemctl status devops-pipeline.service
 
-<div align="center">
+```text
+● devops-pipeline.service - Continuous Integration & Deployment
+     Loaded: loaded (/etc/systemd/system/devops-pipeline.service; enabled)
+     Active: active (running) since Mon 2021-01-01
 
-<img src="https://img.shields.io/badge/1_CODE-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-&nbsp;➡️&nbsp;
-<img src="https://img.shields.io/badge/2_BUILD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-&nbsp;➡️&nbsp;
-<img src="https://img.shields.io/badge/3_TEST-Automated-0A9EDC?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
-&nbsp;➡️&nbsp;
-<img src="https://img.shields.io/badge/4_CONTAINERIZE-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+     ├─ code.service          active (running)   git commit && git push
+     ├─ build.service         active (running)   GitHub Actions CI trigger
+     ├─ test.service          active (running)   unit + integration suite
+     ├─ containerize.service  active (running)   docker build -t app:latest .
+     ├─ registry.service      active (running)   docker push → registry
+     ├─ deploy.service        active (running)   kubectl apply -f deploy/
+     └─ monitor.service       active (running)   prometheus + grafana alerts
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/5_REGISTRY-GHCR-181717?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;➡️&nbsp;
-<img src="https://img.shields.io/badge/6_DEPLOY-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-&nbsp;➡️&nbsp;
-<img src="https://img.shields.io/badge/7_MONITOR-Prometheus-E6522C?style=for-the-badge&logo=prometheusio&logoColor=white"/>
-&nbsp;➡️&nbsp;
-<img src="https://img.shields.io/badge/8_ITERATE-Feedback_Loop-00E5FF?style=for-the-badge&logo=cachet&logoColor=white"/>
-
-</div>
+     Main PID: 1337 (pipeline)
+     CGroup: /system.slice/devops-pipeline.service
+     Status: "All systems operational. Zero manual steps."
+```
 
 <br/>
 
 <details>
-<summary><b>📐 View Pipeline Architecture (click to expand)</b></summary>
+<summary><b>$ man devops-pipeline (click to expand architecture)</b></summary>
 <br/>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0f2027','primaryTextColor':'#00E5FF','primaryBorderColor':'#00E5FF','lineColor':'#00E5FF','secondaryColor':'#203A43','tertiaryColor':'#16222A'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0D1117','primaryTextColor':'#39FF14','primaryBorderColor':'#39FF14','lineColor':'#39FF14','secondaryColor':'#161B22','tertiaryColor':'#000000'}}}%%
 flowchart LR
-    A["👨‍💻 Local Dev"] --> B["📦 Git Push"]
+    A["👨‍💻 Local Dev"] --> B["📦 git push"]
     B --> C["⚙️ CI Build"]
-    C --> D["🧪 Unit + Integration Tests"]
-    D --> E{"✅ Pass?"}
-    E -- No --> A
-    E -- Yes --> F["🐳 Docker Build & Tag"]
-    F --> G["📤 Push to Registry"]
-    G --> H["☸️ Deploy to Cluster"]
-    H --> I["📊 Monitor / Alert"]
-    I -.feedback.-> A
+    C --> D["🧪 Test Suite"]
+    D --> E{"exit code 0?"}
+    E -- no --> A
+    E -- yes --> F["🐳 docker build"]
+    F --> G["📤 registry push"]
+    G --> H["☸️ kubectl apply"]
+    H --> I["📊 monitor / alert"]
+    I -.rollback on failure.-> A
 ```
 
 </details>
 
 <br/>
 
-<!-- ==================== TECH STACK ==================== -->
-## 🛠️ Tech Arsenal
+## `$` pacman -Qe --grep devops
 
-<details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br/>
+```text
+aws                  24.1-1     [installed]
+azure-cli            2.65-1     [installed]
+gcloud-sdk            492-1     [installed]
+docker                27.3-1    [installed]
+kubernetes-cli         1.31-1   [installed]
+terraform              1.9-1    [installed]
+github-actions-runner  stable   [installed]
+git                    2.46-1   [installed]
+nodejs                 22.4-1   [installed]
+python                 3.12-1   [installed]
+postgresql             16.4-1   [installed]
+mongodb                7.0-1    [installed]
+redis                  7.4-1    [installed]
+nginx                  1.27-1   [installed]
+
+14 packages installed. system is up to date.
+```
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,vercel" height="48"/>
-</div>
-</details>
 
-<details open>
-<summary><b>🐳 Containers & Orchestration</b></summary>
+**Cloud & Infra**
 <br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="48"/>
-</div>
-</details>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,vercel" height="46"/>
 
-<details open>
-<summary><b>🔧 CI/CD & Automation</b></summary>
+**Containers & Orchestration**
 <br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=githubactions,git,github,linux,bash" height="48"/>
-</div>
-</details>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="46"/>
 
-<details>
-<summary><b>⚙️ Backend & APIs</b></summary>
+**CI/CD, Shell & OS**
 <br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,python,js" height="48"/>
-</div>
-</details>
+<img src="https://skillicons.dev/icons?i=githubactions,git,github,linux,bash,vim" height="46"/>
 
-<details>
-<summary><b>🗄️ Databases</b></summary>
+**Backend & APIs**
 <br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="48"/>
-</div>
-</details>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,python,js" height="46"/>
 
-<details>
-<summary><b>🎨 Frontend</b></summary>
+**Databases**
 <br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="46"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="46"/>
+
 </div>
-</details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1117&height=3&width=100%25" width="100%"/>
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-## 🚀 Featured Builds
+## `$` ls -la ~/projects/
+
+```text
+drwxr-xr-x  omkar devops  4.0K  ~/projects/surakshit/          # community safety platform
+drwxr-xr-x  omkar devops  4.0K  ~/projects/samku-cms/          # EV management system
+drwxr-xr-x  omkar devops  4.0K  ~/projects/samku-services/     # vehicle service platform
+```
+
+<br/>
 
 <div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🛡️ SURAKSHIT
-**Community Safety Platform**
+**`./surakshit`** 🛡️
+<br/>Community Safety Platform
 
 `React` `Node.js` `Vercel`
 
-[![Live](https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://surakshit-three.vercel.app/)
+[![Live](https://img.shields.io/badge/RUN-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://surakshit-three.vercel.app/)
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### ⚡ SAMKU
-**EV Management System**
+**`./samku-cms`** ⚡
+<br/>EV Management System
 
 `Full-Stack CMS` `Cloud`
 
-[![Live](https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://samku-cms.vercel.app)
+[![Live](https://img.shields.io/badge/RUN-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://samku-cms.vercel.app)
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🚗 SAMKU Services
-**Vehicle Service Platform**
+**`./samku-services`** 🚗
+<br/>Vehicle Service Platform
 
 `React` `Production`
 
-[![Live](https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://samkueservices.com)
+[![Live](https://img.shields.io/badge/RUN-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://samkueservices.com)
 
 </td>
 </tr>
@@ -189,51 +214,48 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1117&height=3&width=100%25" width="100%"/>
 
-<!-- ==================== GITHUB STATS ==================== -->
-## 📊 Metrics Dashboard
+## `$` htop --stats github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-omkarbiradar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_radius=12" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dev-omkarbiradar&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-omkarbiradar&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&border_radius=8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dev-omkarbiradar&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border_radius=8" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-omkarbiradar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-omkarbiradar&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=C9D1D9&border_radius=8" height="165"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev-omkarbiradar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dev-omkarbiradar&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-omkarbiradar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-omkarbiradar&theme=github-dark&hide_border=true&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=39FF14" width="90%"/>
 
 </div>
 
 <br/>
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 <div align="center">
 
-### 🐍 Contribution Grid
+### `$` cat contribution-grid.log
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-omkarbiradar/dev-omkarbiradar/output/github-contribution-grid-snake-dark.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/dev-omkarbiradar/dev-omkarbiradar/output/github-contribution-grid-snake.svg" width="90%">
 </picture>
 
-<sub>⚙️ Requires a one-time GitHub Actions workflow in this repo — ask me and I'll generate it</sub>
+<sub>requires a one-time GitHub Actions workflow in this repo — ask and I'll generate it</sub>
 
 </div>
 
 <br/>
 
-<!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dev-omkarbiradar&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=dev-omkarbiradar&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000"/>
 
 <br/><br/>
 
-**✨ Automating today, so tomorrow deploys itself. ✨**
+**`root@omkar-devops:~$` automate today, so tomorrow deploys itself.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:000000&height=120&section=footer&text=omkar%40devops%3A~%24%20exit&fontColor=39FF14&fontSize=18&fontAlignY=75&animation=fadeIn" width="100%"/>
 
 </div>
