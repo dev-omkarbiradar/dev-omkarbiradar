@@ -2,10 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=210&section=header&text=OMKAR%20BIRADAR&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=DevOps%20Engineer%20%2F%2F%20Linux%20%2B%20Cloud%20%2B%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
+<img src="https://res.cloudinary.com/zeqof4ic/image/upload/w_260,h_260,c_fill,g_face,r_max,q_auto,f_auto/v1783853257/omkarddcimage_lupe9z.png" width="150" height="150" alt="Omkar Biradar" style="border-radius:50%;border:3px solid #39FF14;"/>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=%24%20systemctl%20status%20omkar.service;%E2%97%8F%20omkar.service%20-%20loaded%20(enabled%3B%20vendor%20preset%3A%20always-on);%20%20%20Active%3A%20active%20(running)%20since%202021%3B%20%20%20Mission%3A%20automate%20everything%2C%20break%20nothing" alt="terminal typing"/>
 
 <br/>
 
+<a href="https://devdotcom.org"><img src="https://img.shields.io/badge/🚀_DEVDOTCOM-000000?style=for-the-badge&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 <a href="https://www.linkedin.com/in/omkar-biradar-457725245"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117"/></a>
 <a href="mailto:biradaromkar.4176@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117"/></a>
 <a href="https://leetcode.com/u/Omkar_0212/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0D1117"/></a>
@@ -55,6 +60,7 @@ name: Omkar Biradar
 role: DevOps Engineer | Full-Stack Developer
 location: Pune, India
 mission: Ship faster, break less, automate everything
+founder: DevDotCom → https://devdotcom.org
 focus:
   - Designing CI/CD pipelines that ship with confidence
   - Containerizing & orchestrating cloud-native applications
@@ -64,6 +70,27 @@ currently_exploring: [Kubernetes, System Design, Cloud Cost Optimization]
 achievement: 🏆 Winner — TechXcelerate Hackathon @ BITS Pilani (SaaS Category)
 fun_fact: I automate things twice, just to make sure the automation works
 ```
+
+<br/>
+
+## `$` whoami --startup
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🚀 Founder @ [DevDotCom](https://devdotcom.org)
+Building products at the intersection of dev tools, automation & cloud infrastructure.
+
+[![Visit DevDotCom](https://img.shields.io/badge/VISIT_DEVDOTCOM.ORG-000000?style=for-the-badge&logoColor=39FF14&labelColor=0D1117&color=0D1117)](https://devdotcom.org)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -255,6 +282,8 @@ drwxr-xr-x  omkar devops  4.0K  ~/projects/samku-services/     # vehicle service
 <br/><br/>
 
 **`root@omkar-devops:~$` automate today, so tomorrow deploys itself.**
+<br/>
+🚀 Building [**DevDotCom**](https://devdotcom.org) — dev tools, automation & cloud infra
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:000000&height=120&section=footer&text=omkar%40devops%3A~%24%20exit&fontColor=39FF14&fontSize=18&fontAlignY=75&animation=fadeIn" width="100%"/>
 
