@@ -57,7 +57,6 @@ name: Omkar Biradar
 role: DevOps Engineer | Full-Stack Developer
 location: Pune, India
 mission: Ship faster, break less, automate everything
-founder: DevDotCom → https://devdotcom.org
 focus:
   - Designing CI/CD pipelines that ship with confidence
   - Containerizing & orchestrating cloud-native applications
@@ -77,8 +76,6 @@ fun_fact: I automate things twice, just to make sure the automation works
 <table>
 <tr>
 <td align="center" width="100%">
-
-### 🚀 Founder @ [DevDotCom](https://devdotcom.org)
 Building products at the intersection of dev tools, automation & cloud infrastructure.
 
 [![Visit DevDotCom](https://img.shields.io/badge/VISIT_DEVDOTCOM.ORG-000000?style=for-the-badge&logoColor=39FF14&labelColor=0D1117&color=0D1117)](https://devdotcom.org)
@@ -263,7 +260,6 @@ drwxr-xr-x  omkar devops  4.0K  ~/projects/samku-services/     # vehicle service
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-omkarbiradar/dev-omkarbiradar/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/dev-omkarbiradar/dev-omkarbiradar/output/github-contribution-grid-snake.svg" width="90%">
 </picture>
 
 <sub>requires a one-time GitHub Actions workflow in this repo — ask and I'll generate it</sub>
