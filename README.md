@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=210&section=header&text=OMKAR%20BIRADAR&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=DevOps%20Engineer%20%2F%2F%20Linux%20%2B%20Cloud%20%2B%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<img src="https://res.cloudinary.com/zeqof4ic/image/upload/w_260,h_260,c_fill,g_face,r_max,q_auto,f_auto/v1783853257/omkarddcimage_lupe9z.png" width="150" height="150" alt="Omkar Biradar" style="border-radius:50%;border:3px solid #39FF14;"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=%24%20systemctl%20status%20omkar.service;%E2%97%8F%20omkar.service%20-%20loaded%20(enabled%3B%20vendor%20preset%3A%20always-on);%20%20%20Active%3A%20active%20(running)%20since%202021%3B%20%20%20Mission%3A%20automate%20everything%2C%20break%20nothing" alt="terminal typing"/>
