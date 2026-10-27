@@ -1,120 +1,112 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=6&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B2545&height=8&section=header" width="100%"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:F5F8FC&height=145&section=header&text=OMKAR%20BIRADAR&fontSize=42&fontColor=0B2545&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20DIGITAL%20GOVERNANCE&descSize=13&descColor=294766&descAlignY=68" width="100%"/>
 
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_India.svg"
-     width="76"
-     alt="State Emblem of India"/>
+**Software Developer · Ministry of Tribal Affairs, Government of India**
 
-<br/>
-
-### OMKAR BIRADAR
-
-**SOFTWARE DEVELOPER**
-
-Ministry of Tribal Affairs · Government of India
-
-Building Digital Public Infrastructure Through Engineering
+*Enterprise Applications · Government Cloud · AI/ML Engineering*
 
 <br/>
 
-<a href="https://www.linkedin.com/in/omkar-biradar-457725245">
-<img src="https://img.shields.io/badge/LINKEDIN-163B65?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/dev-omkarbiradar">
-<img src="https://img.shields.io/badge/GITHUB-0B1F3A?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:biradaromkar.4176@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-138808?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Omkar_0212/">
-<img src="https://img.shields.io/badge/LEETCODE-FF9933?style=flat-square&logo=leetcode&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/omkar-biradar-457725245">LinkedIn</a> &nbsp; · &nbsp;
+<a href="https://github.com/dev-omkarbiradar">GitHub</a> &nbsp; · &nbsp;
+<a href="mailto:biradaromkar.4176@gmail.com">Email</a> &nbsp; · &nbsp;
+<a href="https://leetcode.com/u/Omkar_0212/">LeetCode</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header" width="100%"/>
-
-**APPLICATION ENGINEERING** &nbsp; · &nbsp; **GOVERNMENT CLOUD** &nbsp; · &nbsp; **AI/ML**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=6&section=header" width="100%"/>
+<img src="https://img.shields.io/badge/ENGINEERING-Enterprise%20Software-0B2545?style=flat-square"/>
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-MeghRaj%202.0-FF9933?style=flat-square"/>
+<img src="https://img.shields.io/badge/PLATFORM-RHEL%20%7C%20Linux-138808?style=flat-square"/>
+<img src="https://img.shields.io/badge/INNOVATION-AI%20%26%20ML-294766?style=flat-square"/>
 
 </div>
 
 ---
 
-## Professional Overview
+## Profile
 
-I am a Software Developer at the **Ministry of Tribal Affairs, Government of India**, building and maintaining complex web applications, mobile applications, backend services, and digital platforms.
+I am a Software Developer at the Ministry of Tribal Affairs, Government of India, contributing to the development and maintenance of complex web applications, mobile applications, and digital platforms.
 
-My work combines full-stack engineering, cloud infrastructure, application modernization, and AI/ML integration to support reliable digital services and complex administrative workflows.
+My work combines full-stack engineering, enterprise application architecture, backend integrations, and deployment on private government cloud infrastructure. I also integrate AI/ML capabilities into application workflows to support document processing, information retrieval, and decision support.
 
-I work across the complete application lifecycle—from architecture and UI engineering to API development, testing, deployment, production troubleshooting, and ongoing maintenance.
+My engineering approach prioritizes security, reliability, accessibility, maintainability, and responsible technology adoption.
 
-| Area | Focus |
-|:--|:--|
-| Software Engineering | Enterprise web applications, mobile apps, APIs |
-| Digital Governance | Government portals and administrative workflows |
-| Cloud Infrastructure | MeghRaj 2.0 / NGC, RHEL, Linux |
-| AI & Machine Learning | OCR, LLM integration, decision-support workflows |
-| Engineering Productivity | AI-assisted coding, testing, debugging, automation |
+## Areas of Work
+
+| Engineering | Focus |
+|---|---|
+| Application development | Enterprise web and mobile applications |
+| Backend engineering | REST APIs, service integration, business logic |
+| Digital governance | Government portals and administrative workflows |
+| Cloud engineering | MeghRaj 2.0 / NGC, RHEL, Linux |
+| AI/ML integration | OCR, LLMs, intelligent workflows, decision support |
+| Application operations | Testing, deployment, troubleshooting, maintenance |
+
+---
 
 ## Government Digital Platforms
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Ministry of Tribal Affairs
+**01 · Ministry of Tribal Affairs**
 
-**Public-sector digital platform**
+<a href="https://tribal.gov.in/">tribal.gov.in ↗</a>
 
-[Visit tribal.gov.in](https://tribal.gov.in/)
+Contributing to the engineering and maintenance of the Ministry's digital platform, including web application development, integrations, and platform improvements.
 
-Contributing to government web platform engineering, interface development, application integration, and ongoing maintenance.
+`Web Engineering` `APIs` `Maintenance`
 
 </td>
 <td width="50%" valign="top">
 
-### Tribal Research & Training
+**02 · Tribal Research & Training**
 
-**Research and institutional services**
+<a href="https://tritribal.gov.in/">tritribal.gov.in ↗</a>
 
-[Visit tritribal.gov.in](https://tritribal.gov.in/)
+Supporting institutional digital services through modern web interfaces, application integrations, and maintainable software architecture.
 
-Supporting modern web experiences, application development, backend integration, and maintainable digital services.
+`Frontend` `Backend Integration` `Web Applications`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Forest Rights Portal
+**03 · Forest Rights Portal**
 
-**Forest Rights Act digital workflows**
+<a href="https://forestrights.tribal.gov.in/">forestrights.tribal.gov.in ↗</a>
 
-[Visit Forest Rights Portal](https://forestrights.tribal.gov.in/)
+Working on forest-rights-related digital workflows and AI-enabled document processing, including multilingual OCR integration.
 
-Working on complex application workflows and AI-enabled document processing, including multilingual OCR integration.
+`Full Stack` `OCR` `AI/ML`
 
 </td>
 <td width="50%" valign="top">
 
-### Additional Government Applications
+**04 · Additional Digital Platforms**
 
-**Enterprise application engineering**
+Contributing to additional government applications and administrative systems through feature development, backend integration, infrastructure deployment, and ongoing maintenance.
 
-Contributing to additional portals, administrative systems, API integrations, application modernization, deployment, and production support.
+`Enterprise Systems` `Deployment` `Operations`
 
 </td>
 </tr>
 </table>
 
-<sub>Project descriptions reflect engineering contributions and do not imply sole ownership of these platforms. Verify each public URL before publishing.</sub>
+</div>
 
-## Technology Stack
+<sub>Project summaries describe areas of contribution and do not imply sole ownership. Confirm portal URLs and project descriptions before publishing.</sub>
+
+---
+
+## Technology
 
 <div align="center">
 
@@ -126,7 +118,7 @@ Contributing to additional portals, administrative systems, API integrations, ap
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,python,fastapi,flask" height="42"/>
 
-**Cloud, Linux & DevOps**
+**Cloud & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=redhat,linux,bash,docker,kubernetes,nginx,terraform,aws,gcp,azure" height="42"/>
 
@@ -134,67 +126,84 @@ Contributing to additional portals, administrative systems, API integrations, ap
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="42"/>
 
-**Development & Collaboration**
+**Engineering Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman" height="42"/>
 
 </div>
 
-## Government Cloud & Infrastructure
+## Government Cloud & DevOps
 
-### MeghRaj 2.0 / NGC
+My infrastructure work focuses on deploying, maintaining, and troubleshooting application stacks in private government cloud environments.
 
-Working with private government cloud infrastructure to deploy and maintain application stacks, with an emphasis on controlled access, environment separation, reliable releases, and operational continuity.
-
-- **Operating systems:** Red Hat Enterprise Linux (RHEL), Linux, Bash
-- **Application hosting:** Frontend builds, backend services, reverse proxies, API connectivity
-- **Containerization:** Docker and Kubernetes
-- **Deployment automation:** Git, CI/CD pipelines, release validation
-- **Operations:** Log analysis, troubleshooting, monitoring, performance optimization
-- **Security:** Access control, secure configuration, environment-specific deployment practices
+- **MeghRaj 2.0 / NGC:** Government cloud application deployment and operations.
+- **Red Hat Enterprise Linux:** Server administration, services, permissions, shell scripting, and troubleshooting.
+- **Application delivery:** Frontend builds, backend services, Nginx, environment configuration, and API connectivity.
+- **Containerization:** Docker and Kubernetes-based deployment workflows.
+- **Reliability:** Testing, release validation, logging, monitoring, and production support.
+- **Security:** Controlled access, secure configuration, environment separation, and compliance with applicable organizational policies.
 
 ## AI/ML & Intelligent Applications
 
-Integrating AI capabilities into software workflows where they can improve document processing, information access, and operational decision support.
+**Document intelligence** — OCR integration for multilingual document processing and structured data extraction.
 
-- **Multilingual OCR:** Document extraction and integration into application workflows.
-- **LLM integration:** Connecting language-model capabilities to backend services through APIs.
-- **Decision support:** Helping authorized users access and interpret relevant information.
-- **AI-assisted engineering:** Using Claude and other coding assistants for implementation support, debugging, refactoring, documentation, and test generation.
-- **Responsible AI:** Human review, output validation, data protection, and security-aware integration.
+**Decision support** — AI/ML capabilities that help authorized users retrieve information, analyze records, and make informed decisions.
 
-AI-generated code and recommendations are validated before use. Sensitive government data and source code are handled only through tools and workflows approved for the relevant environment.
+**LLM integration** — Connecting language-model services to application backends through controlled APIs and workflows.
 
-## Engineering Principles
+**Responsible AI** — Human review, output validation, access control, data protection, and traceability.
 
-| Principle | Approach |
-|:--|:--|
-| Reliability | Testing, validation, and controlled releases |
-| Security | Access controls and secure configuration |
-| Maintainability | Modular architecture and readable code |
-| Scalability | Reusable services and well-defined APIs |
-| Accessibility | Usable, responsive interfaces |
-| Accountability | Verified changes and human oversight |
+## AI-Assisted Development
 
-## Achievements
+I use tools such as **Claude and other AI coding assistants** to improve development productivity through code exploration, debugging, refactoring, test generation, documentation, and repetitive task automation.
+
+AI-generated code and recommendations are validated through engineering review and testing before use. Sensitive government information is handled only through tools and workflows approved for the relevant data classification.
+
+---
+
+## Selected Achievements
 
 <div align="center">
 
-| Achievement | Recognition |
-|:--|:--|
-| TechXcelerate, BITS Pilani | SaaS Category Winner |
-| Smart India Hackathon 2025 | Winner |
-| Smart India Hackathon 2024 | Finalist |
+<table>
+<tr>
+<td width="33%" align="center">
+
+**TechXcelerate**
+
+BITS Pilani
+
+SaaS Category Winner
+
+</td>
+<td width="33%" align="center">
+
+**Smart India Hackathon 2025**
+
+Winner
+
+</td>
+<td width="33%" align="center">
+
+**Smart India Hackathon 2024**
+
+Finalist
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-omkarbiradar&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&icon_color=FF9933&text_color=334155" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-omkarbiradar&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B2545&icon_color=FF9933&text_color=334155" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-omkarbiradar&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-omkarbiradar&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B2545&text_color=334155" height="165"/>
 
 </div>
 
@@ -202,14 +211,16 @@ AI-generated code and recommendations are validated before use. Sensitive govern
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=3&section=footer" width="100%"/>
+**Engineering reliable digital services. Building technology with purpose.**
 
-### Engineering Reliable Digital Services
+<a href="https://www.linkedin.com/in/omkar-biradar-457725245">Professional profile</a> &nbsp; · &nbsp;
+<a href="https://github.com/dev-omkarbiradar">Explore repositories</a> &nbsp; · &nbsp;
+<a href="mailto:biradaromkar.4176@gmail.com">Get in touch</a>
 
-**Software Engineering · Digital Governance · Cloud Infrastructure · AI/ML**
+<br/><br/>
 
-<sub>Building dependable technology for meaningful public impact.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=3&section=footer" width="100%"/>
+<sub>Personal professional portfolio · India</sub>
 
 </div>
