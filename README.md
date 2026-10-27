@@ -1,283 +1,215 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=210&section=header&text=OMKAR%20BIRADAR&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=DevOps%20Engineer%20%2F%2F%20Linux%20%2B%20Cloud%20%2B%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=%24%20systemctl%20status%20omkar.service;%E2%97%8F%20omkar.service%20-%20loaded%20(enabled%3B%20vendor%20preset%3A%20always-on);%20%20%20Active%3A%20active%20(running)%20since%202021%3B%20%20%20Mission%3A%20automate%20everything%2C%20break%20nothing" alt="terminal typing"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=6&section=header" width="100%"/>
 
 <br/>
 
-<a href="https://devdotcom.org"><img src="https://img.shields.io/badge/🚀_DEVDOTCOM-000000?style=for-the-badge&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
-<a href="https://www.linkedin.com/in/omkar-biradar-457725245"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117"/></a>
-<a href="mailto:biradaromkar.4176@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117"/></a>
-<a href="https://leetcode.com/u/Omkar_0212/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0D1117"/></a>
-<a href="https://github.com/dev-omkarbiradar"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117"/></a>
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_India.svg"
+     width="76"
+     alt="State Emblem of India"/>
+
+<br/>
+
+### OMKAR BIRADAR
+
+**SOFTWARE DEVELOPER**
+
+Ministry of Tribal Affairs · Government of India
+
+Building Digital Public Infrastructure Through Engineering
+
+<br/>
+
+<a href="https://www.linkedin.com/in/omkar-biradar-457725245">
+<img src="https://img.shields.io/badge/LINKEDIN-163B65?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/dev-omkarbiradar">
+<img src="https://img.shields.io/badge/GITHUB-0B1F3A?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:biradaromkar.4176@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-138808?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Omkar_0212/">
+<img src="https://img.shields.io/badge/LEETCODE-FF9933?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OS-Arch_Linux-000000?style=flat-square&logo=archlinux&logoColor=39FF14&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SHELL-bash%20%2F%20zsh-000000?style=flat-square&logo=gnubash&logoColor=39FF14&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/EDITOR-Neovim-000000?style=flat-square&logo=neovim&logoColor=39FF14&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/UPTIME-3%2B_years-000000?style=flat-square&logo=linux&logoColor=39FF14&labelColor=0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header" width="100%"/>
+
+**APPLICATION ENGINEERING** &nbsp; · &nbsp; **GOVERNMENT CLOUD** &nbsp; · &nbsp; **AI/ML**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=6&section=header" width="100%"/>
 
 </div>
 
-<br/>
+---
 
-## `$` neofetch
+## Professional Overview
 
-```text
-                  -`                    omkar@devops-machine
-                 .o+`                   ---------------------
-                `ooo/                   OS: Arch Linux x86_64
-               `+oooo:                  Host: Cloud-Native Infrastructure
-              `+oooooo:                 Kernel: 6.6.0-shipfast
-              -+oooooo+:                Uptime: 3+ years, minimal downtime
-            `/:-:++oooo+:               Shell: bash 5.2 + zsh (tmux inside)
-           `/++++/+++++++:              Role: DevOps Engineer / Full-Stack Dev
-          `/++++++++++++++:             Location: Pune, India
-         `/+++ooooooooooooo/`           CPU: Problem-Solving Core (8) @ inf GHz
-        ./ooosssso++osssssso+`          Memory: 12GB Coffee / inf GB Curiosity
-       .oossssso-````/ossssss+`         Packages: docker, k8s, terraform, git
-      -osssssso.      :ssssssso.        WM: CI/CD Pipelines
-     :osssssss/        osssso+++.       Achievements: 2x Hackathon Winner
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                 `/
-```
+I am a Software Developer at the **Ministry of Tribal Affairs, Government of India**, building and maintaining complex web applications, mobile applications, backend services, and digital platforms.
 
-<br/>
+My work combines full-stack engineering, cloud infrastructure, application modernization, and AI/ML integration to support reliable digital services and complex administrative workflows.
 
-## `$` cat about.md
+I work across the complete application lifecycle—from architecture and UI engineering to API development, testing, deployment, production troubleshooting, and ongoing maintenance.
 
-```yaml
-name: Omkar Biradar
-role: DevOps Engineer | Full-Stack Developer
-location: Pune, India
-mission: Ship faster, break less, automate everything
-focus:
-  - Designing CI/CD pipelines that ship with confidence
-  - Containerizing & orchestrating cloud-native applications
-  - Infrastructure as Code — repeatable, versioned, disposable
-  - Living inside a terminal — tmux, vim, and a lot of grep
-currently_exploring: [Kubernetes, System Design, Cloud Cost Optimization]
-achievement: 🏆 Winner — TechXcelerate Hackathon @ BITS Pilani (SaaS Category)
-fun_fact: I automate things twice, just to make sure the automation works
-```
+| Area | Focus |
+|:--|:--|
+| Software Engineering | Enterprise web applications, mobile apps, APIs |
+| Digital Governance | Government portals and administrative workflows |
+| Cloud Infrastructure | MeghRaj 2.0 / NGC, RHEL, Linux |
+| AI & Machine Learning | OCR, LLM integration, decision-support workflows |
+| Engineering Productivity | AI-assisted coding, testing, debugging, automation |
 
-<br/>
-
-## `$` whoami --startup
-
-<div align="center">
+## Government Digital Platforms
 
 <table>
 <tr>
-<td align="center" width="100%">
-Building products at the intersection of dev tools, automation & cloud infrastructure.
+<td width="50%" valign="top">
 
-[![Visit DevDotCom](https://img.shields.io/badge/VISIT_DEVDOTCOM.ORG-000000?style=for-the-badge&logoColor=39FF14&labelColor=0D1117&color=0D1117)](https://devdotcom.org)
+### Ministry of Tribal Affairs
+
+**Public-sector digital platform**
+
+[Visit tribal.gov.in](https://tribal.gov.in/)
+
+Contributing to government web platform engineering, interface development, application integration, and ongoing maintenance.
+
+</td>
+<td width="50%" valign="top">
+
+### Tribal Research & Training
+
+**Research and institutional services**
+
+[Visit tritribal.gov.in](https://tritribal.gov.in/)
+
+Supporting modern web experiences, application development, backend integration, and maintainable digital services.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Forest Rights Portal
+
+**Forest Rights Act digital workflows**
+
+[Visit Forest Rights Portal](https://forestrights.tribal.gov.in/)
+
+Working on complex application workflows and AI-enabled document processing, including multilingual OCR integration.
+
+</td>
+<td width="50%" valign="top">
+
+### Additional Government Applications
+
+**Enterprise application engineering**
+
+Contributing to additional portals, administrative systems, API integrations, application modernization, deployment, and production support.
 
 </td>
 </tr>
 </table>
 
-</div>
+<sub>Project descriptions reflect engineering contributions and do not imply sole ownership of these platforms. Verify each public URL before publishing.</sub>
 
-<br/>
-
-## `$` systemctl status devops-pipeline.service
-
-```text
-● devops-pipeline.service - Continuous Integration & Deployment
-     Loaded: loaded (/etc/systemd/system/devops-pipeline.service; enabled)
-     Active: active (running) since Mon 2021-01-01
-
-     ├─ code.service          active (running)   git commit && git push
-     ├─ build.service         active (running)   GitHub Actions CI trigger
-     ├─ test.service          active (running)   unit + integration suite
-     ├─ containerize.service  active (running)   docker build -t app:latest .
-     ├─ registry.service      active (running)   docker push → registry
-     ├─ deploy.service        active (running)   kubectl apply -f deploy/
-     └─ monitor.service       active (running)   prometheus + grafana alerts
-
-     Main PID: 1337 (pipeline)
-     CGroup: /system.slice/devops-pipeline.service
-     Status: "All systems operational. Zero manual steps."
-```
-
-<br/>
-
-<details>
-<summary><b>$ man devops-pipeline (click to expand architecture)</b></summary>
-<br/>
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0D1117','primaryTextColor':'#39FF14','primaryBorderColor':'#39FF14','lineColor':'#39FF14','secondaryColor':'#161B22','tertiaryColor':'#000000'}}}%%
-flowchart LR
-    A["👨‍💻 Local Dev"] --> B["📦 git push"]
-    B --> C["⚙️ CI Build"]
-    C --> D["🧪 Test Suite"]
-    D --> E{"exit code 0?"}
-    E -- no --> A
-    E -- yes --> F["🐳 docker build"]
-    F --> G["📤 registry push"]
-    G --> H["☸️ kubectl apply"]
-    H --> I["📊 monitor / alert"]
-    I -.rollback on failure.-> A
-```
-
-</details>
-
-<br/>
-
-## `$` pacman -Qe --grep devops
-
-```text
-aws                  24.1-1     [installed]
-azure-cli            2.65-1     [installed]
-gcloud-sdk            492-1     [installed]
-docker                27.3-1    [installed]
-kubernetes-cli         1.31-1   [installed]
-terraform              1.9-1    [installed]
-github-actions-runner  stable   [installed]
-git                    2.46-1   [installed]
-nodejs                 22.4-1   [installed]
-python                 3.12-1   [installed]
-postgresql             16.4-1   [installed]
-mongodb                7.0-1    [installed]
-redis                  7.4-1    [installed]
-nginx                  1.27-1   [installed]
-
-14 packages installed. system is up to date.
-```
+## Technology Stack
 
 <div align="center">
 
-**Cloud & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,vercel" height="46"/>
+**Frontend & Mobile**
 
-**Containers & Orchestration**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="46"/>
-
-**CI/CD, Shell & OS**
-<br/>
-<img src="https://skillicons.dev/icons?i=githubactions,git,github,linux,bash,vim" height="46"/>
+<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,tailwind" height="42"/>
 
 **Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,python,js" height="46"/>
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="46"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,python,fastapi,flask" height="42"/>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="46"/>
+**Cloud, Linux & DevOps**
 
-</div>
+<img src="https://skillicons.dev/icons?i=redhat,linux,bash,docker,kubernetes,nginx,terraform,aws,gcp,azure" height="42"/>
 
-<br/>
+**Databases & Data Services**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1117&height=3&width=100%25" width="100%"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="42"/>
 
-## `$` ls -la ~/projects/
+**Development & Collaboration**
 
-```text
-drwxr-xr-x  omkar devops  4.0K  ~/projects/surakshit/          # community safety platform
-drwxr-xr-x  omkar devops  4.0K  ~/projects/samku-cms/          # EV management system
-drwxr-xr-x  omkar devops  4.0K  ~/projects/samku-services/     # vehicle service platform
-```
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**`./surakshit`** 🛡️
-<br/>Community Safety Platform
-
-`React` `Node.js` `Vercel`
-
-[![Live](https://img.shields.io/badge/RUN-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://surakshit-three.vercel.app/)
-
-</td>
-<td width="33%" valign="top">
-
-**`./samku-cms`** ⚡
-<br/>EV Management System
-
-`Full-Stack CMS` `Cloud`
-
-[![Live](https://img.shields.io/badge/RUN-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://samku-cms.vercel.app)
-
-</td>
-<td width="33%" valign="top">
-
-**`./samku-services`** 🚗
-<br/>Vehicle Service Platform
-
-`React` `Production`
-
-[![Live](https://img.shields.io/badge/RUN-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://samkueservices.com)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1117&height=3&width=100%25" width="100%"/>
-
-## `$` htop --stats github
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-omkarbiradar&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&border_radius=8" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dev-omkarbiradar&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border_radius=8" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-omkarbiradar&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=C9D1D9&border_radius=8" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-omkarbiradar&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-omkarbiradar&theme=github-dark&hide_border=true&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=39FF14" width="90%"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman" height="42"/>
 
 </div>
 
-<br/>
+## Government Cloud & Infrastructure
+
+### MeghRaj 2.0 / NGC
+
+Working with private government cloud infrastructure to deploy and maintain application stacks, with an emphasis on controlled access, environment separation, reliable releases, and operational continuity.
+
+- **Operating systems:** Red Hat Enterprise Linux (RHEL), Linux, Bash
+- **Application hosting:** Frontend builds, backend services, reverse proxies, API connectivity
+- **Containerization:** Docker and Kubernetes
+- **Deployment automation:** Git, CI/CD pipelines, release validation
+- **Operations:** Log analysis, troubleshooting, monitoring, performance optimization
+- **Security:** Access control, secure configuration, environment-specific deployment practices
+
+## AI/ML & Intelligent Applications
+
+Integrating AI capabilities into software workflows where they can improve document processing, information access, and operational decision support.
+
+- **Multilingual OCR:** Document extraction and integration into application workflows.
+- **LLM integration:** Connecting language-model capabilities to backend services through APIs.
+- **Decision support:** Helping authorized users access and interpret relevant information.
+- **AI-assisted engineering:** Using Claude and other coding assistants for implementation support, debugging, refactoring, documentation, and test generation.
+- **Responsible AI:** Human review, output validation, data protection, and security-aware integration.
+
+AI-generated code and recommendations are validated before use. Sensitive government data and source code are handled only through tools and workflows approved for the relevant environment.
+
+## Engineering Principles
+
+| Principle | Approach |
+|:--|:--|
+| Reliability | Testing, validation, and controlled releases |
+| Security | Access controls and secure configuration |
+| Maintainability | Modular architecture and readable code |
+| Scalability | Reusable services and well-defined APIs |
+| Accessibility | Usable, responsive interfaces |
+| Accountability | Verified changes and human oversight |
+
+## Achievements
 
 <div align="center">
 
-### `$` cat contribution-grid.log
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-omkarbiradar/dev-omkarbiradar/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<sub>requires a one-time GitHub Actions workflow in this repo — ask and I'll generate it</sub>
+| Achievement | Recognition |
+|:--|:--|
+| TechXcelerate, BITS Pilani | SaaS Category Winner |
+| Smart India Hackathon 2025 | Winner |
+| Smart India Hackathon 2024 | Finalist |
 
 </div>
 
-<br/>
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dev-omkarbiradar&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-omkarbiradar&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&icon_color=FF9933&text_color=334155" height="165"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-omkarbiradar&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B1F3A&text_color=334155" height="165"/>
 
-**`root@omkar-devops:~$` automate today, so tomorrow deploys itself.**
-<br/>
-🚀 Building [**DevDotCom**](https://devdotcom.org) — dev tools, automation & cloud infra
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:000000&height=120&section=footer&text=omkar%40devops%3A~%24%20exit&fontColor=39FF14&fontSize=18&fontAlignY=75&animation=fadeIn" width="100%"/>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=3&section=footer" width="100%"/>
+
+### Engineering Reliable Digital Services
+
+**Software Engineering · Digital Governance · Cloud Infrastructure · AI/ML**
+
+<sub>Building dependable technology for meaningful public impact.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=3&section=footer" width="100%"/>
 
 </div>
